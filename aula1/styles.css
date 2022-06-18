@@ -1,0 +1,19 @@
+body{
+    color: blue;
+    font-family: Cambria, serif;
+    text-align: center;
+    justify-content: center;
+}
+
+button{
+    height: 40px;
+    width: 40px;
+    background-color: darkgray;
+    border-radius: 20%;
+    cursor: pointer;
+}
+
+span{
+    font-size: 20px;
+    text-transform: uppercase;
+}
